@@ -3,7 +3,7 @@
 // npm install
 
 // npm start
-ou
+
 // npm run build
 
 ## Arduino setup
