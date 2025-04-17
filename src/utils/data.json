@@ -1,1742 +1,194 @@
 [
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687868533
-  },
-  {
-      "humidity": "82.30",
-      "location": "Kitchen",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687868533
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687938312
-  },
-  {
-      "humidity": "91.20",
-      "location": "Kitchen",
-      "temperature": "12.30",
-      "timestamp_TTL": 1687895003
-  },
-  {
-      "humidity": "91.00",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687909439
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.70",
-      "timestamp_TTL": 1687884774
-  },
-  {
-      "humidity": "88.30",
-      "location": "Kitchen",
-      "temperature": "14.70",
-      "timestamp_TTL": 1687884774
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687863721
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687923876
-  },
-  {
-      "humidity": "87.70",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687923876
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "14.10",
-      "timestamp_TTL": 1687914853
-  },
-  {
-      "humidity": "92.40",
-      "location": "Kitchen",
-      "temperature": "13.90",
-      "timestamp_TTL": 1687914853
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687860111
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687860111
-  },
-  {
-      "humidity": "66.00",
-      "location": "Bedroom",
-      "temperature": "13.00",
-      "timestamp_TTL": 1687902823
-  },
-  {
-      "humidity": "93.00",
-      "location": "Kitchen",
-      "temperature": "12.60",
-      "timestamp_TTL": 1687902823
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687941320
-  },
-  {
-      "humidity": "83.70",
-      "location": "Kitchen",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687941320
-  },
-  {
-      "humidity": "88.70",
-      "location": "Kitchen",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687919063
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.90",
-      "timestamp_TTL": 1687870939
-  },
-  {
-      "humidity": "82.20",
-      "location": "Kitchen",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687870939
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "17.00",
-      "timestamp_TTL": 1687869737
-  },
-  {
-      "humidity": "90.30",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687910642
-  },
-  {
-      "humidity": "81.60",
-      "location": "Kitchen",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687870337
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687932899
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687911244
-  },
-  {
-      "humidity": "90.00",
-      "location": "Kitchen",
-      "temperature": "12.70",
-      "timestamp_TTL": 1687911244
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.20",
-      "timestamp_TTL": 1687887180
-  },
-  {
-      "humidity": "88.70",
-      "location": "Kitchen",
-      "temperature": "14.00",
-      "timestamp_TTL": 1687887180
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687925079
-  },
-  {
-      "humidity": "91.40",
-      "location": "Kitchen",
-      "temperature": "12.20",
-      "timestamp_TTL": 1687895604
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687865525
-  },
-  {
-      "humidity": "83.80",
-      "location": "Kitchen",
-      "temperature": "16.50",
-      "timestamp_TTL": 1687865525
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687910041
-  },
-  {
-      "humidity": "91.00",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687910041
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687875752
-  },
-  {
-      "humidity": "92.80",
-      "location": "Kitchen",
-      "temperature": "13.40",
-      "timestamp_TTL": 1687913650
-  },
-  {
-      "humidity": "92.20",
-      "location": "Kitchen",
-      "temperature": "11.60",
-      "timestamp_TTL": 1687899213
-  },
-  {
-      "humidity": "83.50",
-      "location": "Kitchen",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687858908
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.70",
-      "timestamp_TTL": 1687893800
-  },
-  {
-      "humidity": "91.40",
-      "location": "Kitchen",
-      "temperature": "12.50",
-      "timestamp_TTL": 1687893800
-  },
-  {
-      "humidity": "91.40",
-      "location": "Kitchen",
-      "temperature": "13.00",
-      "timestamp_TTL": 1687907033
-  },
-  {
-      "humidity": "83.80",
-      "location": "Kitchen",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687863720
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687871541
-  },
-  {
-      "humidity": "82.50",
-      "location": "Kitchen",
-      "temperature": "16.60",
-      "timestamp_TTL": 1687871541
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687866126
-  },
-  {
-      "humidity": "83.60",
-      "location": "Kitchen",
-      "temperature": "16.60",
-      "timestamp_TTL": 1687866126
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687873947
-  },
-  {
-      "humidity": "83.40",
-      "location": "Kitchen",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687873947
-  },
-  {
-      "humidity": "92.80",
-      "location": "Kitchen",
-      "temperature": "13.60",
-      "timestamp_TTL": 1687914251
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687906432
-  },
-  {
-      "humidity": "91.40",
-      "location": "Kitchen",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687906432
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.90",
-      "timestamp_TTL": 1687888383
-  },
-  {
-      "humidity": "89.30",
-      "location": "Kitchen",
-      "temperature": "13.60",
-      "timestamp_TTL": 1687888383
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.10",
-      "timestamp_TTL": 1687898011
-  },
-  {
-      "humidity": "92.10",
-      "location": "Kitchen",
-      "temperature": "11.80",
-      "timestamp_TTL": 1687898011
-  },
-  {
-      "humidity": "84.90",
-      "location": "Kitchen",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687939516
-  },
-  {
-      "humidity": "89.70",
-      "location": "Kitchen",
-      "temperature": "13.50",
-      "timestamp_TTL": 1687888984
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687881767
-  },
-  {
-      "humidity": "85.10",
-      "location": "Kitchen",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687881767
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687867330
-  },
-  {
-      "humidity": "83.60",
-      "location": "Kitchen",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687867330
-  },
-  {
-      "humidity": "86.70",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687882969
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687882369
-  },
-  {
-      "humidity": "88.90",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687921469
-  },
-  {
-      "humidity": "80.30",
-      "location": "Kitchen",
-      "temperature": "17.20",
-      "timestamp_TTL": 1687879360
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.40",
-      "timestamp_TTL": 1687886579
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687926883
-  },
-  {
-      "humidity": "85.60",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687926883
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.70",
-      "timestamp_TTL": 1687943726
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687943726
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.10",
-      "timestamp_TTL": 1687859510
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687937109
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "14.80",
-      "timestamp_TTL": 1687917861
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687890790
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687905831
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.10",
-      "timestamp_TTL": 1687858909
-  },
-  {
-      "humidity": "77.90",
-      "location": "Kitchen",
-      "temperature": "17.30",
-      "timestamp_TTL": 1687945530
-  },
-  {
-      "humidity": "86.00",
-      "location": "Kitchen",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687882368
-  },
-  {
-      "humidity": "80.30",
-      "location": "Kitchen",
-      "temperature": "17.30",
-      "timestamp_TTL": 1687880563
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687904627
-  },
-  {
-      "humidity": "92.10",
-      "location": "Kitchen",
-      "temperature": "13.00",
-      "timestamp_TTL": 1687904627
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.50",
-      "timestamp_TTL": 1687888985
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687918462
-  },
-  {
-      "humidity": "89.10",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687918462
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "12.40",
-      "timestamp_TTL": 1687901620
-  },
-  {
-      "humidity": "93.60",
-      "location": "Kitchen",
-      "temperature": "12.20",
-      "timestamp_TTL": 1687901620
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "12.20",
-      "timestamp_TTL": 1687900417
-  },
-  {
-      "humidity": "93.50",
-      "location": "Kitchen",
-      "temperature": "11.90",
-      "timestamp_TTL": 1687900417
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687922071
-  },
-  {
-      "humidity": "87.50",
-      "location": "Kitchen",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687922071
-  },
-  {
-      "humidity": "93.80",
-      "location": "Kitchen",
-      "temperature": "12.10",
-      "timestamp_TTL": 1687901018
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687860713
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.00",
-      "timestamp_TTL": 1687898613
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687892595
-  },
-  {
-      "humidity": "91.30",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687892595
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687884173
-  },
-  {
-      "humidity": "87.50",
-      "location": "Kitchen",
-      "temperature": "14.80",
-      "timestamp_TTL": 1687884173
-  },
-  {
-      "humidity": "81.60",
-      "location": "Kitchen",
-      "temperature": "16.90",
-      "timestamp_TTL": 1687869736
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "14.20",
-      "timestamp_TTL": 1687915455
-  },
-  {
-      "humidity": "83.30",
-      "location": "Kitchen",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687941922
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "14.80",
-      "timestamp_TTL": 1687928086
-  },
-  {
-      "humidity": "85.80",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687928086
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687920267
-  },
-  {
-      "humidity": "90.60",
-      "location": "Kitchen",
-      "temperature": "14.60",
-      "timestamp_TTL": 1687917259
-  },
-  {
-      "humidity": "92.80",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687903424
-  },
-  {
-      "humidity": "83.60",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687932898
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.50",
-      "timestamp_TTL": 1687885978
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "14.30",
-      "timestamp_TTL": 1687916056
-  },
-  {
-      "humidity": "91.80",
-      "location": "Kitchen",
-      "temperature": "14.30",
-      "timestamp_TTL": 1687916056
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687941921
-  },
-  {
-      "humidity": "92.30",
-      "location": "Kitchen",
-      "temperature": "11.70",
-      "timestamp_TTL": 1687898612
-  },
-  {
-      "humidity": "90.40",
-      "location": "Kitchen",
-      "temperature": "13.00",
-      "timestamp_TTL": 1687890789
-  },
-  {
-      "humidity": "84.00",
-      "location": "Kitchen",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687944328
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.50",
-      "timestamp_TTL": 1687913049
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "11.80",
-      "timestamp_TTL": 1687899214
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "12.40",
-      "timestamp_TTL": 1687901019
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.20",
-      "timestamp_TTL": 1687891392
-  },
-  {
-      "humidity": "90.60",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687891392
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687940117
-  },
-  {
-      "humidity": "84.60",
-      "location": "Kitchen",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687940117
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.80",
-      "timestamp_TTL": 1687914252
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687919665
-  },
-  {
-      "humidity": "88.50",
-      "location": "Kitchen",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687919665
-  },
-  {
-      "humidity": "90.30",
-      "location": "Kitchen",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687890187
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687927485
-  },
-  {
-      "humidity": "86.00",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687927485
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.50",
-      "timestamp_TTL": 1687889587
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.30",
-      "timestamp_TTL": 1687897409
-  },
-  {
-      "humidity": "91.90",
-      "location": "Kitchen",
-      "temperature": "11.90",
-      "timestamp_TTL": 1687897409
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687933501
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687882970
-  },
-  {
-      "humidity": "91.10",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687908236
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687869135
-  },
-  {
-      "humidity": "82.10",
-      "location": "Kitchen",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687869135
-  },
-  {
-      "humidity": "91.70",
-      "location": "Kitchen",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687905830
-  },
-  {
-      "humidity": "88.60",
-      "location": "Kitchen",
-      "temperature": "14.30",
-      "timestamp_TTL": 1687885977
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.60",
-      "timestamp_TTL": 1687881165
-  },
-  {
-      "humidity": "82.50",
-      "location": "Kitchen",
-      "temperature": "16.60",
-      "timestamp_TTL": 1687881165
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "14.70",
-      "timestamp_TTL": 1687917260
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687875151
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687922673
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687909440
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687938914
-  },
-  {
-      "humidity": "84.70",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687938914
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "12.10",
-      "timestamp_TTL": 1687899815
-  },
-  {
-      "humidity": "92.80",
-      "location": "Kitchen",
-      "temperature": "11.70",
-      "timestamp_TTL": 1687899815
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.20",
-      "timestamp_TTL": 1687907635
-  },
-  {
-      "humidity": "91.50",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687907635
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.20",
-      "timestamp_TTL": 1687908237
-  },
-  {
-      "humidity": "85.10",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687929289
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.60",
-      "timestamp_TTL": 1687913651
-  },
-  {
-      "humidity": "89.20",
-      "location": "Kitchen",
-      "temperature": "13.80",
-      "timestamp_TTL": 1687887781
-  },
-  {
-      "humidity": "84.00",
-      "location": "Kitchen",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687864321
-  },
-  {
-      "humidity": "90.40",
-      "location": "Kitchen",
-      "temperature": "13.20",
-      "timestamp_TTL": 1687913048
-  },
-  {
-      "humidity": "83.90",
-      "location": "Kitchen",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687940719
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687921470
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687872143
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687943124
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "17.00",
-      "timestamp_TTL": 1687878158
-  },
-  {
-      "humidity": "80.40",
-      "location": "Kitchen",
-      "temperature": "17.00",
-      "timestamp_TTL": 1687878158
-  },
-  {
-      "humidity": "88.60",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687920868
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.40",
-      "timestamp_TTL": 1687907034
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687925680
-  },
-  {
-      "humidity": "86.10",
-      "location": "Kitchen",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687925680
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687944929
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687944929
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.70",
-      "timestamp_TTL": 1687944327
-  },
-  {
-      "humidity": "83.70",
-      "location": "Kitchen",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687860712
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "16.90",
-      "timestamp_TTL": 1687878760
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687891994
-  },
-  {
-      "humidity": "91.90",
-      "location": "Kitchen",
-      "temperature": "14.10",
-      "timestamp_TTL": 1687915454
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687864923
-  },
-  {
-      "humidity": "83.90",
-      "location": "Kitchen",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687864923
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.40",
-      "timestamp_TTL": 1687934102
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687934102
-  },
-  {
-      "humidity": "90.90",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687891993
-  },
-  {
-      "humidity": "84.10",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687937110
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687931696
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687877556
-  },
-  {
-      "humidity": "80.60",
-      "location": "Kitchen",
-      "temperature": "16.90",
-      "timestamp_TTL": 1687877556
-  },
-  {
-      "humidity": "83.40",
-      "location": "Kitchen",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687943125
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.60",
-      "timestamp_TTL": 1687895605
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.60",
-      "timestamp_TTL": 1687895004
-  },
-  {
-      "humidity": "83.30",
-      "location": "Kitchen",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687867931
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687890188
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687935305
-  },
-  {
-      "humidity": "83.10",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687935305
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687863119
-  },
-  {
-      "humidity": "83.50",
-      "location": "Kitchen",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687863119
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.10",
-      "timestamp_TTL": 1687874549
-  },
-  {
-      "humidity": "83.70",
-      "location": "Kitchen",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687874549
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "16.80",
-      "timestamp_TTL": 1687870338
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687862517
-  },
-  {
-      "humidity": "83.40",
-      "location": "Kitchen",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687862517
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687866728
-  },
-  {
-      "humidity": "83.60",
-      "location": "Kitchen",
-      "temperature": "16.70",
-      "timestamp_TTL": 1687866728
-  },
-  {
-      "humidity": "83.90",
-      "location": "Kitchen",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687875150
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687936508
-  },
-  {
-      "humidity": "84.10",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687936508
-  },
-  {
-      "humidity": "92.50",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687904025
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687861315
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.00",
-      "timestamp_TTL": 1687887782
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.20",
-      "timestamp_TTL": 1687904026
-  },
-  {
-      "humidity": "83.30",
-      "location": "Kitchen",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687859509
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687942523
-  },
-  {
-      "humidity": "83.40",
-      "location": "Kitchen",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687942523
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687893198
-  },
-  {
-      "humidity": "89.70",
-      "location": "Kitchen",
-      "temperature": "12.70",
-      "timestamp_TTL": 1687911845
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687864322
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687876955
-  },
-  {
-      "humidity": "81.90",
-      "location": "Kitchen",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687876955
-  },
-  {
-      "humidity": "84.20",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687938313
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687873346
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "16.30",
-      "timestamp_TTL": 1687873346
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.00",
-      "timestamp_TTL": 1687910643
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687935906
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687934704
-  },
-  {
-      "humidity": "88.50",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687920266
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.40",
-      "timestamp_TTL": 1687905229
-  },
-  {
-      "humidity": "91.90",
-      "location": "Kitchen",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687905229
-  },
-  {
-      "humidity": "85.70",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687926281
-  },
-  {
-      "humidity": "87.70",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687922672
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687903425
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687931094
-  },
-  {
-      "humidity": "84.60",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687931094
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687930492
-  },
-  {
-      "humidity": "85.20",
-      "location": "Kitchen",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687930492
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687929290
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687911846
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687908838
-  },
-  {
-      "humidity": "91.60",
-      "location": "Kitchen",
-      "temperature": "12.90",
-      "timestamp_TTL": 1687908838
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687919064
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "14.70",
-      "timestamp_TTL": 1687885376
-  },
-  {
-      "humidity": "88.30",
-      "location": "Kitchen",
-      "temperature": "14.60",
-      "timestamp_TTL": 1687885376
-  },
-  {
-      "humidity": "90.10",
-      "location": "Kitchen",
-      "temperature": "13.30",
-      "timestamp_TTL": 1687889586
-  },
-  {
-      "humidity": "86.90",
-      "location": "Kitchen",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687925078
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.70",
-      "timestamp_TTL": 1687894402
-  },
-  {
-      "humidity": "91.10",
-      "location": "Kitchen",
-      "temperature": "12.40",
-      "timestamp_TTL": 1687894402
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.60",
-      "timestamp_TTL": 1687940718
-  },
-  {
-      "humidity": "83.00",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687933500
-  },
-  {
-      "humidity": "91.30",
-      "location": "Kitchen",
-      "temperature": "12.60",
-      "timestamp_TTL": 1687893197
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.40",
-      "timestamp_TTL": 1687861916
-  },
-  {
-      "humidity": "83.50",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687935907
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.30",
-      "timestamp_TTL": 1687896808
-  },
-  {
-      "humidity": "92.00",
-      "location": "Kitchen",
-      "temperature": "12.00",
-      "timestamp_TTL": 1687896808
-  },
-  {
-      "humidity": "91.30",
-      "location": "Kitchen",
-      "temperature": "14.50",
-      "timestamp_TTL": 1687916657
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687924477
-  },
-  {
-      "humidity": "87.30",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687924477
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "12.30",
-      "timestamp_TTL": 1687896206
-  },
-  {
-      "humidity": "91.70",
-      "location": "Kitchen",
-      "temperature": "12.10",
-      "timestamp_TTL": 1687896206
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687923274
-  },
-  {
-      "humidity": "87.90",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687923274
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.50",
-      "timestamp_TTL": 1687872744
-  },
-  {
-      "humidity": "82.70",
-      "location": "Kitchen",
-      "temperature": "16.50",
-      "timestamp_TTL": 1687872744
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687926282
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687932297
-  },
-  {
-      "humidity": "84.10",
-      "location": "Kitchen",
-      "temperature": "15.30",
-      "timestamp_TTL": 1687932297
-  },
-  {
-      "humidity": "83.20",
-      "location": "Kitchen",
-      "temperature": "16.00",
-      "timestamp_TTL": 1687861314
-  },
-  {
-      "humidity": "62.00",
-      "location": "Bedroom",
-      "temperature": "15.10",
-      "timestamp_TTL": 1687883571
-  },
-  {
-      "humidity": "86.90",
-      "location": "Kitchen",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687883571
-  },
-  {
-      "humidity": "88.70",
-      "location": "Kitchen",
-      "temperature": "14.20",
-      "timestamp_TTL": 1687886578
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "16.90",
-      "timestamp_TTL": 1687867932
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "17.20",
-      "timestamp_TTL": 1687880564
-  },
-  {
-      "humidity": "83.50",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687934703
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687937711
-  },
-  {
-      "humidity": "84.20",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687937711
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687928688
-  },
-  {
-      "humidity": "85.70",
-      "location": "Kitchen",
-      "temperature": "14.90",
-      "timestamp_TTL": 1687928688
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "14.50",
-      "timestamp_TTL": 1687916658
-  },
-  {
-      "humidity": "84.20",
-      "location": "Kitchen",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687931695
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.50",
-      "timestamp_TTL": 1687939515
-  },
-  {
-      "humidity": "83.00",
-      "location": "Kitchen",
-      "temperature": "16.20",
-      "timestamp_TTL": 1687861915
-  },
-  {
-      "humidity": "64.00",
-      "location": "Bedroom",
-      "temperature": "13.10",
-      "timestamp_TTL": 1687912447
-  },
-  {
-      "humidity": "89.10",
-      "location": "Kitchen",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687912447
-  },
-  {
-      "humidity": "90.30",
-      "location": "Kitchen",
-      "temperature": "14.80",
-      "timestamp_TTL": 1687917860
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687929891
-  },
-  {
-      "humidity": "85.10",
-      "location": "Kitchen",
-      "temperature": "15.00",
-      "timestamp_TTL": 1687929891
-  },
-  {
-      "humidity": "58.00",
-      "location": "Bedroom",
-      "temperature": "17.30",
-      "timestamp_TTL": 1687945531
-  },
-  {
-      "humidity": "61.00",
-      "location": "Bedroom",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687876353
-  },
-  {
-      "humidity": "84.40",
-      "location": "Kitchen",
-      "temperature": "15.80",
-      "timestamp_TTL": 1687876353
-  },
-  {
-      "humidity": "63.00",
-      "location": "Bedroom",
-      "temperature": "15.20",
-      "timestamp_TTL": 1687920869
-  },
-  {
-      "humidity": "65.00",
-      "location": "Bedroom",
-      "temperature": "12.80",
-      "timestamp_TTL": 1687902221
-  },
-  {
-      "humidity": "93.30",
-      "location": "Kitchen",
-      "temperature": "12.40",
-      "timestamp_TTL": 1687902221
-  },
-  {
-      "humidity": "80.70",
-      "location": "Kitchen",
-      "temperature": "17.10",
-      "timestamp_TTL": 1687878759
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "17.30",
-      "timestamp_TTL": 1687879962
-  },
-  {
-      "humidity": "80.40",
-      "location": "Kitchen",
-      "temperature": "17.20",
-      "timestamp_TTL": 1687879962
-  },
-  {
-      "humidity": "82.60",
-      "location": "Kitchen",
-      "temperature": "16.60",
-      "timestamp_TTL": 1687872142
-  },
-  {
-      "humidity": "60.00",
-      "location": "Bedroom",
-      "temperature": "17.10",
-      "timestamp_TTL": 1687879361
-  },
-  {
-      "humidity": "84.20",
-      "location": "Kitchen",
-      "temperature": "15.90",
-      "timestamp_TTL": 1687875751
-  }
+    {
+        "humidity": "61.00",
+        "location": "Quarto",
+        "temperature": "18.90",
+        "timestamp_TTL": 1744523674
+    },
+    {
+        "humidity": "82.30",
+        "location": "Cozinha",
+        "temperature": "16.80",
+        "timestamp_TTL": 1744676677
+    },
+    {
+        "humidity": "61.00",
+        "location": "Quarto",
+        "temperature": "15.30",
+        "timestamp_TTL": 1744885796
+    },
+    {
+        "humidity": "91.20",
+        "location": "Cozinha",
+        "temperature": "12.30",
+        "timestamp_TTL": 1744693514
+    },
+    {
+        "humidity": "91.00",
+        "location": "Cozinha",
+        "temperature": "12.80",
+        "timestamp_TTL": 1744691435
+    },
+    {
+        "humidity": "63.00",
+        "location": "Quarto",
+        "temperature": "19.70",
+        "timestamp_TTL": 1744477702
+    },
+    {
+        "humidity": "88.30",
+        "location": "Cozinha",
+        "temperature": "10.70",
+        "timestamp_TTL": 1744825732
+    },
+    {
+        "humidity": "61.00",
+        "location": "Quarto",
+        "temperature": "16.30",
+        "timestamp_TTL": 1744634444
+    },
+    {
+        "humidity": "63.00",
+        "location": "Quarto",
+        "temperature": "15.30",
+        "timestamp_TTL": 1744909636
+    },
+    {
+        "humidity": "87.70",
+        "location": "Cozinha",
+        "temperature": "15.30",
+        "timestamp_TTL": 1744740309
+    },
+    {
+        "humidity": "65.00",
+        "location": "Quarto",
+        "temperature": "14.10",
+        "timestamp_TTL": 1744798234
+    },
+    {
+        "humidity": "92.40",
+        "location": "Cozinha",
+        "temperature": "13.90",
+        "timestamp_TTL": 1744506467
+    },
+    {
+        "humidity": "61.00",
+        "location": "Quarto",
+        "temperature": "16.20",
+        "timestamp_TTL": 1744917846
+    },
+    {
+        "humidity": "83.20",
+        "location": "Cozinha",
+        "temperature": "15.90",
+        "timestamp_TTL": 1744895053
+    },
+    {
+        "humidity": "66.00",
+        "location": "Quarto",
+        "temperature": "13.00",
+        "timestamp_TTL": 1744545086
+    },
+    {
+        "humidity": "93.00",
+        "location": "Cozinha",
+        "temperature": "12.60",
+        "timestamp_TTL": 1744681011
+    },
+    {
+        "humidity": "60.00",
+        "location": "Quarto",
+        "temperature": "15.60",
+        "timestamp_TTL": 1744539993
+    },
+    {
+        "humidity": "83.70",
+        "location": "Cozinha",
+        "temperature": "15.50",
+        "timestamp_TTL": 1744759566
+    },
+    {
+        "humidity": "88.70",
+        "location": "Cozinha",
+        "temperature": "15.00",
+        "timestamp_TTL": 1744533451
+    },
+    {
+        "humidity": "61.00",
+        "location": "Quarto",
+        "temperature": "16.90",
+        "timestamp_TTL": 1744795853
+    },
+    {
+        "humidity": "82.20",
+        "location": "Cozinha",
+        "temperature": "16.70",
+        "timestamp_TTL": 1744780664
+    },
+    {
+        "humidity": "60.00",
+        "location": "Quarto",
+        "temperature": "17.00",
+        "timestamp_TTL": 1744472822
+    },
+    {
+        "humidity": "90.30",
+        "location": "Cozinha",
+        "temperature": "12.80",
+        "timestamp_TTL": 1744804157
+    },
+    {
+        "humidity": "81.60",
+        "location": "Cozinha",
+        "temperature": "16.80",
+        "timestamp_TTL": 1744915760
+    },
+    {
+        "humidity": "60.00",
+        "location": "Quarto",
+        "temperature": "15.40",
+        "timestamp_TTL": 1744769911
+    },
+    {
+        "humidity": "63.00",
+        "location": "Quarto",
+        "temperature": "12.90",
+        "timestamp_TTL": 1744764097
+    },
+    {
+        "humidity": "90.00",
+        "location": "Cozinha",
+        "temperature": "12.70",
+        "timestamp_TTL": 1744716874
+    },
+    {
+        "humidity": "63.00",
+        "location": "Quarto",
+        "temperature": "14.20",
+        "timestamp_TTL": 1744663402
+    },
+    {
+        "humidity": "88.70",
+        "location": "Cozinha",
+        "temperature": "14.00",
+        "timestamp_TTL": 1744842739
+    },
+    {
+        "humidity": "62.00",
+        "location": "Quarto",
+        "temperature": "15.00",
+        "timestamp_TTL": 1744620325
+    },
+    {
+        "humidity": "91.40",
+        "location": "Cozinha",
+        "temperature": "12.20",
+        "timestamp_TTL": 1744907005
+    },
+    {
+        "humidity": "65.20",
+        "location": "Quarto",
+        "temperature": "17.40",
+        "timestamp_TTL": 1744929600
+    }
 ]
