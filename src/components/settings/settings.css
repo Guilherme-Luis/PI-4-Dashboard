@@ -1,5 +1,5 @@
 .settings-popup-container {
-  background-color: #21242c;
+  background-color: #7f8390;
   width: 50%;
   height: 50%;
   position: absolute;
@@ -91,26 +91,30 @@
   bottom: 20px;
 }
 
+/* ===== Estilo exclusivo do botão Aplicar ===== */
 .settings-submit-button {
-  font-size: 18px;
-  padding: 10px;
+  background: linear-gradient(135deg, #5a5a5a 0%, #888888 100%);
+  color: #ffffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.75rem 2rem;
+  border: none;
   border-radius: 5px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
   cursor: pointer;
-  background-color: white;
-  transition: all 0.2s ease-in;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.3s ease;
 }
 
 .settings-submit-button:hover {
-  background-color: hsla(0, 0%, 0%, 0.187);
+  background: linear-gradient(135deg, #3a3a3a 0%, #6b6b6b 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
 
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
+.settings-submit-button:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
 }
 
 .close-wrapper {

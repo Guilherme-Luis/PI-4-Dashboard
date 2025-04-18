@@ -1,194 +1,182 @@
 [
     {
-        "humidity": "61.00",
+        "humidity": "77.02",
         "location": "Quarto",
-        "temperature": "18.90",
-        "timestamp_TTL": 1744523674
+        "temperature": "15.02",
+        "timestamp_TTL": 1745005800
     },
     {
-        "humidity": "82.30",
+        "humidity": "66.15",
         "location": "Cozinha",
-        "temperature": "16.80",
-        "timestamp_TTL": 1744676677
+        "temperature": "16.94",
+        "timestamp_TTL": 1745005500
     },
     {
-        "humidity": "61.00",
+        "humidity": "60.17",
         "location": "Quarto",
-        "temperature": "15.30",
-        "timestamp_TTL": 1744885796
+        "temperature": "19.90",
+        "timestamp_TTL": 1745005200
     },
     {
-        "humidity": "91.20",
+        "humidity": "73.09",
         "location": "Cozinha",
-        "temperature": "12.30",
-        "timestamp_TTL": 1744693514
+        "temperature": "16.94",
+        "timestamp_TTL": 1745004900
     },
     {
-        "humidity": "91.00",
-        "location": "Cozinha",
-        "temperature": "12.80",
-        "timestamp_TTL": 1744691435
-    },
-    {
-        "humidity": "63.00",
+        "humidity": "90.34",
         "location": "Quarto",
-        "temperature": "19.70",
-        "timestamp_TTL": 1744477702
+        "temperature": "14.04",
+        "timestamp_TTL": 1745004600
     },
     {
-        "humidity": "88.30",
+        "humidity": "75.32",
         "location": "Cozinha",
-        "temperature": "10.70",
-        "timestamp_TTL": 1744825732
+        "temperature": "18.32",
+        "timestamp_TTL": 1745004300
     },
     {
-        "humidity": "61.00",
+        "humidity": "89.31",
         "location": "Quarto",
-        "temperature": "16.30",
-        "timestamp_TTL": 1744634444
+        "temperature": "16.60",
+        "timestamp_TTL": 1745004000
     },
     {
-        "humidity": "63.00",
-        "location": "Quarto",
-        "temperature": "15.30",
-        "timestamp_TTL": 1744909636
-    },
-    {
-        "humidity": "87.70",
+        "humidity": "60.65",
         "location": "Cozinha",
-        "temperature": "15.30",
-        "timestamp_TTL": 1744740309
+        "temperature": "16.55",
+        "timestamp_TTL": 1745003700
     },
     {
-        "humidity": "65.00",
+        "humidity": "89.81",
         "location": "Quarto",
-        "temperature": "14.10",
-        "timestamp_TTL": 1744798234
+        "temperature": "14.51",
+        "timestamp_TTL": 1745003400
     },
     {
-        "humidity": "92.40",
+        "humidity": "66.55",
         "location": "Cozinha",
-        "temperature": "13.90",
-        "timestamp_TTL": 1744506467
+        "temperature": "15.63",
+        "timestamp_TTL": 1745003100
     },
     {
-        "humidity": "61.00",
+        "humidity": "66.51",
         "location": "Quarto",
-        "temperature": "16.20",
-        "timestamp_TTL": 1744917846
+        "temperature": "12.48",
+        "timestamp_TTL": 1745002800
     },
     {
-        "humidity": "83.20",
+        "humidity": "61.59",
         "location": "Cozinha",
-        "temperature": "15.90",
-        "timestamp_TTL": 1744895053
+        "temperature": "13.17",
+        "timestamp_TTL": 1745002500
     },
     {
-        "humidity": "66.00",
+        "humidity": "84.01",
         "location": "Quarto",
-        "temperature": "13.00",
-        "timestamp_TTL": 1744545086
+        "temperature": "13.91",
+        "timestamp_TTL": 1745002200
     },
     {
-        "humidity": "93.00",
+        "humidity": "73.46",
         "location": "Cozinha",
-        "temperature": "12.60",
-        "timestamp_TTL": 1744681011
+        "temperature": "18.60",
+        "timestamp_TTL": 1745001900
     },
     {
-        "humidity": "60.00",
+        "humidity": "84.40",
+        "location": "Quarto",
+        "temperature": "17.76",
+        "timestamp_TTL": 1745001600
+    },
+    {
+        "humidity": "71.47",
+        "location": "Cozinha",
+        "temperature": "19.04",
+        "timestamp_TTL": 1745001300
+    },
+    {
+        "humidity": "79.76",
+        "location": "Quarto",
+        "temperature": "12.59",
+        "timestamp_TTL": 1745001000
+    },
+    {
+        "humidity": "60.85",
+        "location": "Cozinha",
+        "temperature": "15.64",
+        "timestamp_TTL": 1745000700
+    },
+    {
+        "humidity": "76.20",
+        "location": "Quarto",
+        "temperature": "17.53",
+        "timestamp_TTL": 1745000400
+    },
+    {
+        "humidity": "75.67",
+        "location": "Cozinha",
+        "temperature": "16.09",
+        "timestamp_TTL": 1745000100
+    },
+    {
+        "humidity": "73.14",
+        "location": "Quarto",
+        "temperature": "12.76",
+        "timestamp_TTL": 1744999800
+    },
+    {
+        "humidity": "92.44",
+        "location": "Cozinha",
+        "temperature": "15.61",
+        "timestamp_TTL": 1744999500
+    },
+    {
+        "humidity": "67.75",
         "location": "Quarto",
         "temperature": "15.60",
-        "timestamp_TTL": 1744539993
+        "timestamp_TTL": 1744999200
     },
     {
-        "humidity": "83.70",
+        "humidity": "83.82",
         "location": "Cozinha",
-        "temperature": "15.50",
-        "timestamp_TTL": 1744759566
+        "temperature": "18.79",
+        "timestamp_TTL": 1744998900
     },
     {
-        "humidity": "88.70",
-        "location": "Cozinha",
-        "temperature": "15.00",
-        "timestamp_TTL": 1744533451
-    },
-    {
-        "humidity": "61.00",
+        "humidity": "66.80",
         "location": "Quarto",
-        "temperature": "16.90",
-        "timestamp_TTL": 1744795853
+        "temperature": "14.13",
+        "timestamp_TTL": 1744998600
     },
     {
-        "humidity": "82.20",
+        "humidity": "69.99",
         "location": "Cozinha",
-        "temperature": "16.70",
-        "timestamp_TTL": 1744780664
+        "temperature": "19.76",
+        "timestamp_TTL": 1744998300
     },
     {
-        "humidity": "60.00",
+        "humidity": "91.29",
         "location": "Quarto",
-        "temperature": "17.00",
-        "timestamp_TTL": 1744472822
+        "temperature": "18.25",
+        "timestamp_TTL": 1744998000
     },
     {
-        "humidity": "90.30",
+        "humidity": "81.63",
         "location": "Cozinha",
-        "temperature": "12.80",
-        "timestamp_TTL": 1744804157
+        "temperature": "19.48",
+        "timestamp_TTL": 1744997700
     },
     {
-        "humidity": "81.60",
+        "humidity": "78.22",
+        "location": "Quarto",
+        "temperature": "13.84",
+        "timestamp_TTL": 1744997400
+    },
+    {
+        "humidity": "90.74",
         "location": "Cozinha",
-        "temperature": "16.80",
-        "timestamp_TTL": 1744915760
-    },
-    {
-        "humidity": "60.00",
-        "location": "Quarto",
-        "temperature": "15.40",
-        "timestamp_TTL": 1744769911
-    },
-    {
-        "humidity": "63.00",
-        "location": "Quarto",
-        "temperature": "12.90",
-        "timestamp_TTL": 1744764097
-    },
-    {
-        "humidity": "90.00",
-        "location": "Cozinha",
-        "temperature": "12.70",
-        "timestamp_TTL": 1744716874
-    },
-    {
-        "humidity": "63.00",
-        "location": "Quarto",
-        "temperature": "14.20",
-        "timestamp_TTL": 1744663402
-    },
-    {
-        "humidity": "88.70",
-        "location": "Cozinha",
-        "temperature": "14.00",
-        "timestamp_TTL": 1744842739
-    },
-    {
-        "humidity": "62.00",
-        "location": "Quarto",
-        "temperature": "15.00",
-        "timestamp_TTL": 1744620325
-    },
-    {
-        "humidity": "91.40",
-        "location": "Cozinha",
-        "temperature": "12.20",
-        "timestamp_TTL": 1744907005
-    },
-    {
-        "humidity": "65.20",
-        "location": "Quarto",
-        "temperature": "17.40",
-        "timestamp_TTL": 1744929600
+        "temperature": "18.59",
+        "timestamp_TTL": 1744997100
     }
 ]

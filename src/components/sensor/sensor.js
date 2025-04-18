@@ -19,17 +19,23 @@ const Sensor = ({ sensorData, showSettings }) => {
   const [extendData, setExtendData] = useState(false);
   const [indicatorColour, setIndicatorColour] = useState("#4a515f");
 
+  // Última atualização do sensor
   let latestUpdate = sensorData.data[sensorData.data.length - 1];
 
   useEffect(() => {
     const interval = setInterval(() => setTime(Date.now()), 1000);
 
-    const ts = new Date().getTime(); // em milissegundos
-    const currentTime = Math.floor(ts / 1000); // transforma para segundos
-    const minutesDiff = Math.max(0, Math.floor((currentTime - latestUpdate.timestamp_TTL) / 60)); // nunca negativo
+    // Ajusta Date.now() (UTC) para UTC-3 subtraindo 3 horas (em segundos)
+    const currentTime = Math.floor(Date.now() / 1000) - (3 * 60 * 60);
+
+    const minutesDiff = Math.max(
+      0,
+      Math.floor((currentTime - latestUpdate.timestamp_TTL) / 60)
+    );
+
     setMinsSince(minutesDiff);
 
-    // Cor do indicador
+    // Ajusta as cores do indicador segundo o status
     if (minutesDiff >= appState.orangeStatusMins && minutesDiff <= appState.redStatusMins) {
       setIndicatorColour("#cb7900");
     } else if (minutesDiff > appState.redStatusMins) {
@@ -38,7 +44,7 @@ const Sensor = ({ sensorData, showSettings }) => {
       setIndicatorColour("#00CB24");
     }
 
-    // Texto amigável
+    // Texto amigável da atualização
     if (minutesDiff > 100) {
       setLastUpdateText("Mais de uma hora...");
     } else if (minutesDiff === 0) {
@@ -47,20 +53,30 @@ const Sensor = ({ sensorData, showSettings }) => {
       setLastUpdateText(`${minutesDiff} minuto${minutesDiff !== 1 ? 's' : ''} atrás`);
     }
 
-    return () => {
-      clearInterval(interval);
-    };
+    return () => clearInterval(interval);
   }, [time, latestUpdate.timestamp_TTL, appState]);
+
+  // Gera data ajustada para o gráfico: corrige UTC para UTC-3 (adiciona 3h)
+  const chartData = sensorData.data.map(item => ({
+    ...item,
+    timestamp_TTL: item.timestamp_TTL + (3 * 60 * 60)
+  }));
 
   const clickOnSensor = () => {
     if (!extendData && !showSettings) {
       setExtendData(true);
-      dispatch({ type: 'tempState/updateOpenGraphCount', payload: tempState.openGraphCount + 1 });
+      dispatch({
+        type: 'tempState/updateOpenGraphCount',
+        payload: tempState.openGraphCount + 1
+      });
     } else {
       setExtendData(false);
-      dispatch({ type: 'tempState/updateOpenGraphCount', payload: tempState.openGraphCount - 1 });
+      dispatch({
+        type: 'tempState/updateOpenGraphCount',
+        payload: tempState.openGraphCount - 1
+      });
     }
-  }
+  };
 
   return (
     <div className="sensor-container" onClick={clickOnSensor}>
@@ -85,13 +101,11 @@ const Sensor = ({ sensorData, showSettings }) => {
           </div>
         </div>
       </div>
-      {
-        extendData ? (
-          <CSSTransition in={extendData} timeout={0} className="my-node" unmountOnExit appear>
-            <Chart sensorData={sensorData} />
-          </CSSTransition>
-        ) : null
-      }
+      {extendData && (
+        <CSSTransition in={extendData} timeout={0} className="my-node" unmountOnExit appear>
+          <Chart sensorData={{ ...sensorData, data: chartData }} />
+        </CSSTransition>
+      )}
     </div>
   );
 };

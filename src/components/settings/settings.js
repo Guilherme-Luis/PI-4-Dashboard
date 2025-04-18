@@ -7,19 +7,23 @@ const Settings = ({ setShowSettings }) => {
   const dispatch = useDispatch();
   const { orangeStatusMins, redStatusMins } = useSelector((state) => state.appState);
 
-  const [orangeInput, setOrangeInput] = useState(orangeStatusMins);
-  const [redInput, setRedInput] = useState(redStatusMins);
+  // Estado em string para permitir campo vazio
+  const [orangeInput, setOrangeInput] = useState(String(orangeStatusMins));
+  const [redInput, setRedInput] = useState(String(redStatusMins));
 
   const handleChange = (setter) => (event) => {
-    const value = Number(event.target.value);
-    if (!isNaN(value) && value >= 0) {
-      setter(value);
+    const val = event.target.value;
+    if (val === "" || /^\d+$/.test(val)) {
+      setter(val);
     }
   };
 
   const applySettings = () => {
-    dispatch({ type: "appState/setOrangeStatusMins", payload: orangeInput });
-    dispatch({ type: "appState/setRedStatusMins", payload: redInput });
+    const orange = orangeInput === "" ? 0 : Number(orangeInput);
+    const red    = redInput    === "" ? 0 : Number(redInput);
+
+    dispatch({ type: "appState/setOrangeStatusMins", payload: orange });
+    dispatch({ type: "appState/setRedStatusMins", payload: red });
     setShowSettings(false);
   };
 
@@ -43,9 +47,15 @@ const Settings = ({ setShowSettings }) => {
             Configure os limites (em minutos) para alertas de sensores:
           </p>
           <ul className="settings-hint-list">
-            <li><div className="green-status" /> <strong>Verde</strong>: sensor com dado recente.</li>
-            <li><div className="orange-status" /> <strong>Laranja</strong>: sem atualização por mais de X minutos.</li>
-            <li><div className="red-status" /> <strong>Vermelho</strong>: sem atualização por mais de Y minutos.</li>
+            <li>
+              <div className="green-status" /> <strong>Verde</strong>: sensor com dado recente.
+            </li>
+            <li>
+              <div className="orange-status" /> <strong>Laranja</strong>: sem atualização por mais de X minutos.
+            </li>
+            <li>
+              <div className="red-status" /> <strong>Vermelho</strong>: sem atualização por mais de Y minutos.
+            </li>
           </ul>
         </div>
 
@@ -83,6 +93,8 @@ const StatusInput = ({ label, colorClass, value, onChange }) => (
       min="0"
       value={value}
       onChange={onChange}
+      inputMode="numeric"
+      pattern="\d*"
     />
     <label className="status-mins-label">{label}</label>
   </div>
