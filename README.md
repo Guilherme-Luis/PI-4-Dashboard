@@ -2,7 +2,7 @@
 
 // npm install
 
-// npm run dev
+// npm start
 
 ## Arduino setup
 Para configurar o Arduino correto ao projeto, você precisa utilizar um Arduino com os seguintes atributos:
