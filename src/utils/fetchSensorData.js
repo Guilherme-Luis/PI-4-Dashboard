@@ -1,15 +1,3 @@
-import data from './data.json';
-
-const fetchSensorData = () => {
-  return new Promise((resolve) => {
-    resolve(data);
-  });
-};
-
-export default fetchSensorData;
-
-
-/**
 const fetchSensorData = () => {
   return new Promise((resolve, reject) => {
     async function fetchData() {
@@ -20,7 +8,7 @@ const fetchSensorData = () => {
       if (responseData) {
         return responseData;
       }
-      throw Error("Nope. Try again.");
+      throw Error("Erro. Por favor, tente novamente, mais tarde!");
     }
 
     fetchData()
@@ -30,6 +18,21 @@ const fetchSensorData = () => {
       .catch((error) => {
         reject(error);
       });
+  });
+};
+
+export default fetchSensorData;
+
+/**
+export default fetchSensorData;
+
+
+
+import data from './data.json';
+
+const fetchSensorData = () => {
+  return new Promise((resolve) => {
+    resolve(data);
   });
 };
 
