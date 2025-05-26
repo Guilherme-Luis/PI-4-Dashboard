@@ -18,6 +18,7 @@ Este repositório contém um painel interativo desenvolvido com React para monit
 - `Redux Persist`: Salva o estado no localStorage, mantendo dados entre sessões
 - `Recharts`: Exibição de gráficos interativos com dados dos sensores
 - `React Transition Group`: Transições e animações nos componentes
+- `simple-statistics`: Calculo de valores de média, moda, mediana, desvio padrão e assimetria
 
 ## ▶️ Como rodar o projeto:
 
